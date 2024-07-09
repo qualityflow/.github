@@ -12,6 +12,13 @@ Our API creation services are designed to help organizations unlock the full pot
 
 At QualityFlow Innovations Limited, we prioritize building secure, reliable, and efficient connections between your applications and external services. Our expertise ensures that your software ecosystem operates seamlessly, delivering the functionality your users demand while maintaining data integrity and security.
 
+### Quality Assurance Consulting Services
+We offer a specialized consulting service package that includes:
+
+- **QA Audits:** Detailed audits of existing software processes to identify areas of improvement.
+- **Test Strategy Development:** Creating customized test strategies aligned with the client’s goals and industry standards.
+- **Training Workshops:** Conducting workshops and training sessions to upskill client teams in best practices and new tools.
+
 ## Why Choose QualityFlow Innovations Limited
 
 - **Experienced Team:** Our team comprises seasoned professionals with extensive experience in software testing and API development. They bring a wealth of knowledge to every project, ensuring the highest level of quality.
