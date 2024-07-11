@@ -28,6 +28,6 @@ We offer a specialized consulting service package that includes:
 - **Client-Centric Approach:** Your satisfaction is our priority. We work closely with you, providing transparent communication and regular updates throughout the project lifecycle.
 
 ## Our Mission
-Our mission is to be the trusted partner for businesses seeking excellence in software quality and seamless API integration. We strive to contribute to your success by ensuring your software is reliable, efficient, and scalable, allowing you to focus on your core business goals.
+Our mission is to be the trusted partner for businesses seeking excellence in software quality,seamless API integration and Quality Assurance Consulting Services. We strive to contribute to your success by ensuring your software is reliable, efficient, and scalable, allowing you to focus on your core business goals.
 
 At QualityFlow Innovations Limited, we are more than a service provider; we are your technology partner on the journey to digital excellence. Join us in shaping a future where software is synonymous with quality and reliability.
