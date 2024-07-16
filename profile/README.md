@@ -46,17 +46,6 @@ At QualityFlow Innovations Limited, we are more than a service provider; we are 
 For more information about our services or to discuss your project needs, please contact us at:
 
 **Email:** info@qualityflowinnovations.com  
-**Phone:** +260 211 123 456  
-**Address:**  
-QualityFlow Innovations Limited  
-Plot 123, Innovation Street  
-Lusaka, Zambia
+**Phone:** +260 975403198  
 
-**Follow Us:**
-
-- [LinkedIn](https://www.linkedin.com/company/qualityflow-innovations)
-- [Twitter](https://twitter.com/QualityFlowInnov)
-- [Facebook](https://www.facebook.com/QualityFlowInnovations)
-
-QualityFlow Innovations Limited is your trusted partner for innovative IoT solutions. Together, we can build a smarter, more connected world.
 ```
